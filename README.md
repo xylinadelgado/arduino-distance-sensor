@@ -3,6 +3,7 @@ An ultrasonic distance logger with RGB LED color alerts and buzzer — like a re
 
 # Demo
 ![Distance Sensor](IMG_0058.jpeg)
+![Distance Sensor](IMG_0059.jpeg)
 
 # About This Project
 My name is Xylina D and this is my second Arduino project. This project simulates the kind of proximity and distance sensing used in aerospace and robotics applications.

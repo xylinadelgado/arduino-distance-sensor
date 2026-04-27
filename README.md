@@ -13,9 +13,9 @@ Measures distance in real time using an HC-SR04 ultrasonic sensor
 Displays live distance readings on an LCD1602 screen
 RGB LED changes color based on distance:
 
-🟢 Green = far (25cm+)
-🟠 Orange = medium (10-25cm)
-🔴 Red = very close (under 10cm)
+🟢 Green = far (25cm+)<br>
+🟠 Orange = medium (10-25cm)<br>
+🔴 Red = very close (under 10cm)<br> 
 🔵 Blue = out of range
 
 
